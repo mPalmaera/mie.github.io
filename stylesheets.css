@@ -1,0 +1,11 @@
+*{
+    padding: 0
+    margin: 0;
+    font: optional
+}
+
+.hero {
+    height: 100vh
+    width: 100px;
+    background-image: url(https://images.wallpapersden.com/image/download/baal-raiden-shogun-genshin-impact_bG5naGmUmZqaraWkpJRpZ2dsrWdlaW0.jpg )
+}
